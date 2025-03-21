@@ -59,19 +59,6 @@ python main.py \
 | 帧率范围           | 24-120 FPS               |
 | 透明度支持         | Alpha Channel (RGBA/YUVA)|
 
-## 📂 项目结构
-```
-AudioWave-Visualizer/
-├── main.py            # 主程序入口
-├── requirements.txt   # 依赖清单
-├── examples/          # 示例文件
-│   ├── demo.wav
-│   └── demo_output.mov
-└── docs/              # 文档资源
-    ├── workflow.png   # 系统架构图
-    └── config_guide.md
-```
-
 ## 🌍 跨平台支持
 
 | 操作系统 | 验证版本 | 注意事项                |
